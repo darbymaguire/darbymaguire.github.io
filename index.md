@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/77426275/104655606-eeb1ba80-568b-11eb-9d37-7a1a2e2163c9.png)
+
 ## Who am I?
 
 I ask myself the same question too often. Currently, I am in my final year of studying Computer Science at the United States Naval Academy. I'll graduate in May 2021 and am looking to continue developing software that makes a difference in the world. I specialize in Machine Learning and Data Science, having taken many classes and done multiple projects using Artifical Intelligence, Natural Language Processing, and more. 
