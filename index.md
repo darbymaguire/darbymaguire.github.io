@@ -1,37 +1,31 @@
-## Welcome to my website
+## Who am I?
 
-You can use the [editor on GitHub](https://github.com/darbymaguire/darbymaguire.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I ask myself the same question too often. Currently, I am in my final year of studying Computer Science at the United States Naval Academy. I'll graduate in May 2021 and am looking to continue developing software that makes a difference in the world. I specialize in Machine Learning and Data Science, having taken many classes and done multiple projects using Artifical Intelligence, Natural Language Processing, and more. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Keep scrolling to review my recent projects!
 
-### Markdown
+### Sentiment Analysis of Twitter Posts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Armed with 790 MB of old tweets, I built two types of classifiers for positive, negative, and objective sentiment. Using millions of tweets amassed from users all over the world produced the unexpected challenge of cleaning the data of slang, poor grammar, non-ascii characters, and sarcasm before being able to produce an accurate classification. The first classifier used a sentiment lexicon, and the second used a logistic regression classifier. In the end, both classifiers approached an astonishing 60% accuracy, which leaves much room for improvement (but overall, not terrible for a basic language model!). 
 
-```markdown
-Syntax highlighted code block
+### Predicted Success of Reddit Posts
 
-# Header 1
-## Header 2
-### Header 3
+After experimenting with Reddit's PRAW API, myself and two other teammates created a language model to determine how successful a Reddit post might become. PRAW became a jumping-off point for us, and we ended up accumulating over 1.65 billion comments in JSON format using pushshift.io that we would use to train and test our language model. We created a lightweight Recurrent Neural Network (RNN) using Long Short-Term Memory to predict various classifications of success levels. Using an 80/20 train/test split, our AI achieved an impressive 87% accuracy. 
 
-- Bulleted
-- List
+### Word Arthmetic, Twitter "Search Engine"
 
-1. Numbered
-2. List
+What do you think "cat - mean + nice" equals? While a cat person might disagree, my Word2Vec program calculated it to equal "dog"! I transformed a simple numerical calulator into a more complex word calculator using 66MB of pre-trained embeddings and creating word vectors. My calculator really got down to the true meaning of certain words, as seen in the procuded equation "job - fun + office = federal".
 
-**Bold** and _Italic_ and `Code` text
+Also using a Word2Vec model, I brought back my massive Twitter dataset to create a sort of "search engine" that would take a sentence or phrase as input and return tweets most similar to it using word embeddings and a cosine comparison function.
 
-[Link](url) and ![Image](src)
-```
+### CKY Parser
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In an effort to master sentence parsing to create maximum accuracy in NLP, I implemented a CKY algorithm that was able to parse sentences better than a novice linguist like myself could. I tested my algorithm on millions of parse trees created by scanning complex sentences pulled from the Wall Street Journal.
 
-### Jekyll Themes
+## Enough with the technicalities, who am I away from the screen?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darbymaguire/darbymaguire.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Netflix might call me Halt and Catch Fire's biggest fan, but when I'm not working on my latest garage project or learning a new programming language, I'm usually outdoors doing something on the border between epic and idiotic. My risk-taking and daring personality traits are not exclusive to my programming life, after all. 
 
-### Support or Contact
+I love running, and by far my best experiences have been doing a 40-mile ultramarathon with zero training whatsoever, along with running the Marine Corps Marathon in 2019 for a non-profit called Back on My Feet that combats homelessness throughout the United States.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When I'm not running, you can also find me on the slopes or in the surf, living in sunny California gives me the incredible opportunity to even do both in one day. I'm also a big reader (thanks to my kindle!) and love anything and all Margaret Atwood.
