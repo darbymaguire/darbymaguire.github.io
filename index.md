@@ -36,5 +36,5 @@ I love running, and by far my best experiences have been doing a 40-mile ultrama
 
 When I'm not running, you can also find me on the slopes or in the surf, living in sunny California gives me the incredible opportunity to even do both in one day. I'm also a big reader (thanks to my kindle!) and love any and all Margaret Atwood.
 > Nolite te Bastardes Carborundorum
->   Margaret Atwood, *The Handmaid's Tale*
+>   -Margaret Atwood, The Handmaid's Tale
 
