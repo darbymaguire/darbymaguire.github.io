@@ -4,7 +4,11 @@
 
 I ask myself the same question too often. Currently, I am in my final year of studying Computer Science at the United States Naval Academy. I'll graduate in May 2021 and am looking to continue developing software that makes a difference in the world. I specialize in Machine Learning and Data Science, having taken many classes and done multiple projects using Artifical Intelligence, Natural Language Processing, and more. 
 
-Keep scrolling to review my recent projects!
+Keep scrolling to take an inside look at my recent projects!
+
+### New project! Detection of Sharks in Coastal Waters via Aerial Footage
+
+Thanks to the kind folks over at the Benioff Ocean Initiative, I've been able to use my free time to combine my love of sharks with my love of programming. They provided me with over 5.5 hours of drone footage of the Southern California coast, and I'm in the process of creating an AI that will be able to detect and approximate the size of sharks. 
 
 ### Sentiment Analysis of Twitter Posts
 
@@ -12,7 +16,7 @@ Armed with 790 MB of old tweets, I built two types of classifiers for positive, 
 
 ### Predicted Success of Reddit Posts
 
-After experimenting with Reddit's PRAW API, myself and two other teammates created a language model to determine how successful a Reddit post might become. PRAW became a jumping-off point for us, and we ended up accumulating over 1.65 billion comments in JSON format using pushshift.io that we would use to train and test our language model. We created a lightweight Recurrent Neural Network (RNN) using Long Short-Term Memory to predict various classifications of success levels. Using an 80/20 train/test split, our AI achieved an impressive 87% accuracy. 
+After experimenting with Reddit's PRAW API, myself and two other teammates created a language model to determine how successful a Reddit post might become. PRAW became a jumping-off point for us, and we ended up accumulating over 1.65 billion comments in JSON format using pushshift.io that we would use to train and test our language model. We created a lightweight Recurrent Neural Network (RNN) using Long Short-Term Memory (LSTM) to predict various classifications of success levels. Using an 80/20 train/test split, our AI achieved an impressive 87% accuracy. 
 
 ### Word Arthmetic, Twitter "Search Engine"
 
@@ -30,4 +34,4 @@ Netflix might call me Halt and Catch Fire's biggest fan, but when I'm not workin
 
 I love running, and by far my best experiences have been doing a 40-mile ultramarathon with zero training whatsoever, along with running the Marine Corps Marathon in 2019 for a non-profit called Back on My Feet that combats homelessness throughout the United States.
 
-When I'm not running, you can also find me on the slopes or in the surf, living in sunny California gives me the incredible opportunity to even do both in one day. I'm also a big reader (thanks to my kindle!) and love anything and all Margaret Atwood.
+When I'm not running, you can also find me on the slopes or in the surf, living in sunny California gives me the incredible opportunity to even do both in one day. I'm also a big reader (thanks to my kindle!) and love any and all Margaret Atwood.
