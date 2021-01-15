@@ -20,7 +20,7 @@ After experimenting with Reddit's PRAW API, myself and two other teammates creat
 
 #### Word Arthmetic, Twitter "Search Engine"
 
-What do you think "cat - mean + nice" equals? While a cat person might disagree, my Word2Vec program calculated it to equal "dog"! I transformed a simple numerical calulator into a more complex word calculator using 66MB of pre-trained embeddings and creating word vectors. My calculator really got down to the true meaning of certain words, as seen in the procuded equation "job - fun + office = federal".
+What do you think "cat - mean + nice" equals? While a cat person might disagree, my Word2Vec program calculated it to equal "dog"! I transformed a simple numerical calulator into a more complex word calculator using 66MB of pre-trained embeddings and creating word vectors. My calculator really got down to the true meaning of certain words, as seen in the produced equation "job - fun + office = federal".
 
 Also using a Word2Vec model, I brought back my massive Twitter dataset to create a sort of "search engine" that would take a sentence or phrase as input and return tweets most similar to it using word embeddings and a cosine comparison function.
 
