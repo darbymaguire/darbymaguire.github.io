@@ -35,3 +35,6 @@ Netflix might call me *Halt and Catch Fire*'s biggest fan, but when I'm not work
 I love running, and by far my best experiences have been doing a 40-mile ultramarathon with zero training whatsoever, along with running the Marine Corps Marathon in 2019 for a non-profit called Back on My Feet that combats homelessness throughout the United States.
 
 When I'm not running, you can also find me on the slopes or in the surf, living in sunny California gives me the incredible opportunity to even do both in one day. I'm also a big reader (thanks to my kindle!) and love any and all Margaret Atwood.
+> Nolite te Bastardes Carborundorum
+> - Margaret Atwood, *The Handmaid's Tale*
+
