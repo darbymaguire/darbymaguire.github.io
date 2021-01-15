@@ -2,9 +2,12 @@
 
 ## Who am I?
 
-I ask myself the same question too often. Currently, I am in my final year of studying Computer Science at the United States Naval Academy. I'll graduate in May 2021 and am looking to continue developing software that makes a difference in the world. I specialize in Machine Learning and Data Science, having taken many classes and done multiple projects using Artifical Intelligence, Natural Language Processing, and more. 
+I ask myself the same question all too often. Currently, I am in my final year of studying Computer Science at the United States Naval Academy. I'll graduate in May 2021 and am looking to continue developing software that makes a difference in the world. I specialize in Machine Learning and Data Science, having taken many classes and done multiple projects using Artifical Intelligence, Natural Language Processing, and more. 
 
 Keep scrolling to take an inside look at my recent projects!
+
+||     ||     ||
+\/     \/     \/
 
 ### New project! Detection of Sharks in Coastal Waters via Aerial Footage
 
