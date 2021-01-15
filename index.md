@@ -30,7 +30,7 @@ In an effort to master sentence parsing to create maximum accuracy in NLP, I imp
 
 ## Enough with all the technicalities, who am I away from the screen?
 
-Netflix might call me Halt and Catch Fire's biggest fan, but when I'm not working on my latest garage project or learning a new programming language, I'm usually outdoors doing something on the border between epic and idiotic. My risk-taking and daring personality traits are not exclusive to my programming life, after all. 
+Netflix might call me *Halt and Catch Fire*'s biggest fan, but when I'm not working on my latest garage project or learning a new programming language, I'm usually outdoors doing something on the border between epic and idiotic. My risk-taking and daring personality traits are not exclusive to my programming life, after all. 
 
 I love running, and by far my best experiences have been doing a 40-mile ultramarathon with zero training whatsoever, along with running the Marine Corps Marathon in 2019 for a non-profit called Back on My Feet that combats homelessness throughout the United States.
 
